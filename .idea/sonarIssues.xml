@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/Dropbox/fuzz/code/test-projects/fib/fib.rb">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dropbox/fuzz/code/test-projects/fib/fib_spec.rb">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dropbox/fuzz/code/test-projects/untitled/fib-test.rb">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dropbox/fuzz/code/test-projects/untitled/fib.rb">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dropbox/fuzz/code/test-projects/untitled/fib_spec.rb">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dropbox/fuzz/code/test-projects/untitled/fibonacci.rb">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
